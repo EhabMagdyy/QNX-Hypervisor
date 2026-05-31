@@ -6,3 +6,4 @@
 rpi4.build
 .vscode*
 overlays*
+*.m4
